@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "思春期少年少女",
+  "base_artist": "Sou",
+  "createdAt": "2026-02-08T10:28:53.068697Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "思春期少年少女",
+      "artist": "Sou",
+      "has_synced": true,
+      "path": "select/01_思春期少年少女_Sou.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "思春期少年少女(カバー)",
+      "artist": "Sou",
+      "has_synced": true,
+      "path": "select/02_思春期少年少女(カバー)_Sou.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "思春期少年少女",
+      "artist": "Sou",
+      "has_synced": false,
+      "path": "select/pl_01_思春期少年少女_Sou.txt"
+    }
+  ]
+}
